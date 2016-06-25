@@ -9,7 +9,10 @@
   font-family: 'klee';
 }
 
-p:hover{color: #467;}
+p{transition: 0.5s;}
+li a{transition: 0.5s; border: 1px solid #acd;}
+p:hover{color: #245;}
+li a:hover{color: #134;}
 
 
 
